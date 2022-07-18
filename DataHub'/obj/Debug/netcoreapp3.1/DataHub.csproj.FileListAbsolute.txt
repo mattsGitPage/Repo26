@@ -1,0 +1,15 @@
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\bin\Debug\netcoreapp3.1\DataHub.exe
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\bin\Debug\netcoreapp3.1\DataHub.deps.json
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\bin\Debug\netcoreapp3.1\DataHub.runtimeconfig.json
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\bin\Debug\netcoreapp3.1\DataHub.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\bin\Debug\netcoreapp3.1\DataHub.dll
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\bin\Debug\netcoreapp3.1\DataHub.pdb
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.dll
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.pdb
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\obj\Debug\netcoreapp3.1\DataHub.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\DataHub'\DataHub'\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

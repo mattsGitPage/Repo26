@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eIiA55zY2DytQCcey/0mKb0WWQm4E568dN39ro+RwdDpQ7P4qwtLK2v4IVCe97WcH4o+mrCtrdzDUuS54c728g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthew\\source\\repos\\DataHub'\\DataHub'\\DataHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
