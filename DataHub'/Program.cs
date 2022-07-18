@@ -12,7 +12,6 @@ namespace DataHub
             Console.WriteLine("Please enter an absolute file path to read in an input file.");
 
             var filePath = Console.ReadLine();
-            filePath = @"C:\Users\Matthew\source\repos\DataHub'\InputFile.txt";
 
             try
             {
